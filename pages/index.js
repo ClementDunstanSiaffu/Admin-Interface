@@ -62,7 +62,7 @@ function Home (){
                   
                    <Col xs = "auto" className = "left-box">
                        <a href = "http://localhost:3000/library" style = {{textDecoration:'none'}}>
-                       {/*<img src = {image1} className = "image-style"/>*/}
+                       <img src = {image1} className = "image-style"/>
                        <h1 className = "text-form">Book libary form</h1>
                        </a>
                       
