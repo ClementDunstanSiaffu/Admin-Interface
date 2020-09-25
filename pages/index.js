@@ -6,8 +6,8 @@ import Typical from 'react-typical';
 import image2 from '../assets/images/resume.png';
 import image3 from '../assets/images/graduu.jpg';*/
 /*const image1 = require('../assets/images/libary.png')
-const image2 = require('../assets/images/resume.png')
-const image3 = require('../assets/images/graduu.jpg')*/
+const image2 = require('../assets/images/resume.png')*/
+const image3 = require('../assets/images/graduu.jpg')
 
 
 
@@ -25,7 +25,7 @@ function Home (){
                         
                         <Col xs = 'auto'>
                         <div >
-                           {/*<img src = {image3} className = "profile" />*/}
+                           <img src = {image3} className = "profile" />
                         </div>
                         </Col>
                          
