@@ -4,6 +4,7 @@ import React from 'react';
 
 import '../assets/styleSheets/style.css'
 import '../assets/styleSheets/resume.css'
+import '../assets/styleSheets/content.css'
 import 'bootstrap/dist/css/bootstrap.css';
 
 export default function MyApp({Component,pageProps}){

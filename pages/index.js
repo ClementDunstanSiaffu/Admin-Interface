@@ -8,6 +8,7 @@ import image3 from '../assets/images/graduu.jpg';*/
 const image1 = require('../assets/images/library.jpg')
 const image2 = require('../assets/images/resume.jpg')
 const image3 = require('../assets/images/graduu.jpg')
+const image4 = require('../assets/images/medium.jpg')
 
 
 
@@ -75,6 +76,17 @@ function Home (){
                        <a href = "http://localhost:3000/resume" style = {{textDecoration:'none'}} >
                         <img src = {image2} className = "image-style"/>
                        <h1 className = "text-form">Resume form</h1>
+                       </a>
+                   
+                   </Col>
+
+                    
+                   <Col xs = "auto" className = "right-box">
+                     
+                    
+                       <a href = "http://localhost:3000/medium" style = {{textDecoration:'none'}} >
+                        <img src = {image4} className = "image-style"/>
+                       <h1 className = "text-form">medium form</h1>
                        </a>
                    
                    </Col>
