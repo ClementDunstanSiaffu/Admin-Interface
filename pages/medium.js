@@ -12,7 +12,7 @@ function Medium(){
 
         <div className = "outer-form-container-content">
             <div className = "inner-form-container-content"> 
-              <form className = "form-container-content" action = "http://localhost:8080/leta" method = "POST" >
+              <form className = "form-container-content" action = "https://intense-shelf-79555.herokuapp.com/leta" method = "POST" >
                   <div className = "form-style-content">
                   
 
