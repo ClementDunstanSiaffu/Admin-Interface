@@ -62,7 +62,7 @@ function Home (){
             <Row className = "container-image">
                   
                    <Col xs = "auto" className = "left-box">
-                       <a href = "http://localhost:3000/library" style = {{textDecoration:'none'}}>
+                       <a href = "https://admin-interface.vercel.app/library" style = {{textDecoration:'none'}}>
                        <img src = {image1} className = "image-style"/>
                        <h1 className = "text-form">Book libary form</h1>
                        </a>
@@ -73,7 +73,7 @@ function Home (){
                    <Col xs = "auto" className = "right-box">
                      
                     
-                       <a href = "http://localhost:3000/resume" style = {{textDecoration:'none'}} >
+                       <a href = "https://admin-interface.vercel.app/resume" style = {{textDecoration:'none'}} >
                         <img src = {image2} className = "image-style"/>
                        <h1 className = "text-form">Resume form</h1>
                        </a>
@@ -84,7 +84,7 @@ function Home (){
                    <Col xs = "auto" className = "right-box">
                      
                     
-                       <a href = "http://localhost:3000/medium" style = {{textDecoration:'none'}} >
+                       <a href = "https://admin-interface.vercel.app/medium" style = {{textDecoration:'none'}} >
                         <img src = {image4} className = "image-style"/>
                        <h1 className = "text-form">medium form</h1>
                        </a>
